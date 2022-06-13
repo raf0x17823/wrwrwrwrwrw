@@ -1,0 +1,8 @@
+plotly
+scipy
+pandas
+Flask
+flask-cors
+pyforest
+sklearn
+click<8.1,>=7.0
